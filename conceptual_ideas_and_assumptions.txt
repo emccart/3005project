@@ -1,0 +1,8 @@
+members and trainers are both users
+administration can do with only one account
+a goal can be anything
+a personal training session is a class with capacity 1
+a member can join any number of classes
+a class can have any number of members between 0 and the capacity of the class
+trainers can schedule classes whenever, if the date isn't relevant then nobody will see it
+equipment could move between rooms
